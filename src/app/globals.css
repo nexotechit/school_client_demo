@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Bangla:ital@0;1&display=swap');
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #000000;
+}
+
+.tiro-bangla-regular {
+  font-family: "Tiro Bangla", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.tiro-bangla-regular-italic {
+  font-family: "Tiro Bangla", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: "Tiro Bangla", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Sweetalert2 high z-index to show above modals */
+.swal-high-z-index {
+  z-index: 99999 !important;
+}
+
+/* Custom styling for download invoice button */
+.swal-download-btn {
+  background-color: #10b981 !important;
+  color: white !important;
+  border-radius: 6px !important;
+  padding: 8px 16px !important;
+  font-weight: 600 !important;
+  transition: all 0.3s ease !important;
+}
+
+.swal-download-btn:hover {
+  background-color: #059669 !important;
+  transform: translateY(-2px) !important;
+  box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3) !important;
+}
+
+.swal-download-btn:active {
+  transform: translateY(0) !important;
+}

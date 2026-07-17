@@ -1,0 +1,546 @@
+{
+  "common": {
+    "schoolName": "Sunlight School",
+    "tagline": "Excellence in Education",
+    "login": "Login",
+    "logout": "Logout",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "search": "Search",
+    "download": "Download",
+    "upload": "Upload",
+    "select": "Select",
+    "close": "Close"
+  },
+  "nav": {
+    "home": "Home",
+    "aboutUs": "About Us",
+    "academics": "Academics",
+    "admissions": "Admissions",
+    "notices": "Notices",
+    "contact": "Contact",
+    "adminDashboard": "Admin Dashboard",
+    "teacherboard": "Teacherboard",
+    "portal": "Portal",
+    "applyNow": "Apply Now"
+  },
+  "hero": {
+    "welcomeTitle": "Welcome to Sunlight School",
+    "welcomeSubtitle": "Nurturing Excellence, Building Future Leaders",
+    "exploreMore": "Explore More",
+    "contactUs": "Contact Us"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Learn more about our institution",
+    "mission": "Mission",
+    "vision": "Vision",
+    "history": "History",
+    "pageTitle": "About Sunlight School",
+    "heroDescription": "Illuminating minds and shaping futures since 1995. Where excellence meets innovation, and every student discovers their limitless potential.",
+    "stats": {
+      "students": "Students",
+      "teachers": "Expert Teachers",
+      "years": "Years of Excellence",
+      "graduation": "Graduation Rate"
+    },
+    "missionText": "To provide exceptional education that empowers students to become confident, compassionate, and capable individuals who contribute positively to society. We strive to create a nurturing environment where every student can discover their potential and achieve academic excellence through innovative teaching and personalized learning experiences.",
+    "visionText": "To be a leading educational institution recognized for academic excellence, innovative teaching methods, and holistic development of students. We envision a future where our graduates become leaders, innovators, and responsible citizens who make meaningful contributions to their communities and the world.",
+    "whyTitle": "Why Choose Sunlight School?",
+    "why": {
+      "personalized": "Personalized learning approach",
+      "facilities": "State-of-the-art facilities",
+      "experienced": "Experienced faculty",
+      "extracurricular": "Comprehensive extracurricular programs",
+      "community": "Strong community partnerships"
+    },
+    "legacy": {
+      "title": "Our Legacy of Excellence",
+      "subtitle": "Three decades of commitment to educational excellence and student success"
+    },
+    "history": {
+      "1995": {
+        "title": "1995: Humble Beginnings",
+        "text": "Founded with a vision to provide quality education to 50 local students, starting in a modest building with dedicated educators."
+      },
+      "2010": {
+        "title": "2010: Expansion & Growth",
+        "text": "Expanded to serve over 500 students with new facilities, advanced curriculum, and modern teaching methodologies."
+      },
+      "2024": {
+        "title": "2024: Excellence Today",
+        "text": "A comprehensive educational center serving 1,000+ students with cutting-edge technology and innovative programs."
+      }
+    },
+    "journey": {
+      "title": "Our Journey",
+      "text": "Over the past three decades, Sunlight School has evolved from a small community school into a beacon of educational excellence. We've maintained our commitment to quality while embracing modern teaching methodologies and technological advancements.",
+      "years": "Years of Service",
+      "growth": "Student Growth"
+    },
+    "programs": {
+      "title": "Comprehensive Academic Programs",
+      "subtitle": "From foundation to advanced learning, we offer complete educational pathways",
+      "primary": {
+        "title": "Primary Education",
+        "desc": "Comprehensive foundation program for grades K-5, focusing on core subjects and fundamental skills development through play-based learning.",
+        "features": [
+          "Interactive learning methods",
+          "Arts and creativity programs",
+          "Physical education",
+          "Basic STEM introduction"
+        ]
+      },
+      "middle": {
+        "title": "Middle School",
+        "desc": "Advanced curriculum for grades 6-8, preparing students for high school with specialized subjects and extracurricular activities.",
+        "features": [
+          "Advanced mathematics & science",
+          "Foreign language programs",
+          "Leadership development",
+          "Competitive sports teams"
+        ]
+      },
+      "high": {
+        "title": "High School",
+        "desc": "College preparatory program for grades 9-12, offering advanced placement courses and comprehensive career guidance.",
+        "features": [
+          "AP & honors courses",
+          "College counseling",
+          "Research opportunities",
+          "Internship programs"
+        ]
+      }
+    },
+    "achievements": {
+      "academicTitle": "Academic Excellence Award",
+      "academicDesc": "Recognized for outstanding academic performance",
+      "stemTitle": "STEM Innovation Prize",
+      "stemDesc": "Winner of regional STEM competition",
+      "communityTitle": "Community Service Award",
+      "communityDesc": "Excellence in community engagement",
+      "sportsTitle": "Sports Championship",
+      "sportsDesc": "State champions in basketball and soccer"
+    },
+    "coreValues": {
+      "title": "Our Core Values",
+      "subtitle": "The principles that guide everything we do at Sunlight School",
+      "excellence": { "title": "Excellence", "text": "We strive for the highest standards in education, fostering a culture of continuous improvement and achievement in everything we do." },
+      "compassion": { "title": "Compassion", "text": "We create a caring and supportive environment where every student feels valued, respected, and empowered to reach their full potential." },
+      "community": { "title": "Community", "text": "We build strong partnerships with parents, staff, and the community to support student success and foster lifelong learning." }
+    },
+    "contactSubtitle": "Ready to join our community of excellence? Get in touch today.",
+    "contact": {
+      "visitTitle": "Visit Our Campus",
+      "getInTouchTitle": "Get in Touch",
+      "hoursTitle": "School Hours",
+      "addressLine1": "123 Education Street",
+      "addressLine2": "Knowledge City, KC 12345",
+      "country": "United States",
+      "admissionsLabel": "Admissions",
+      "weekdays": "Monday - Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "closed": "Closed",
+      "admissionsOfficeLabel": "Admissions Office",
+      "admissionsOfficeHours": "Monday - Friday: 9:00 AM - 5:00 PM"
+    }
+  },
+  "academics": {
+    "title": "Academics",
+    "pageTitle": "Our Academics",
+    "subtitle": "Comprehensive education from Pre-Primary to Higher Secondary with world-class curriculum, experienced faculty, and cutting-edge learning methodologies",
+    "tabs": {
+      "classes": "Academic Levels",
+      "subjects": "Core Subjects",
+      "activities": "Co-Curricular"
+    },
+    "mediums": {
+      "english": "English Medium",
+      "bangla": "Bangla Medium"
+    },
+    "coreSubjects": "Core Subjects",
+    "subjectsSubtitle": "Comprehensive curriculum with English and Bangla medium options",
+    "coreBenefits": {
+      "title": "Why Choose Our Core Subjects?",
+      "targeted": { "title": "Targeted Learning", "desc": "Focused curriculum designed for academic excellence and real-world application" },
+      "expert": { "title": "Expert Faculty", "desc": "Highly qualified teachers with years of experience and innovative teaching methods" },
+      "proven": { "title": "Proven Results", "desc": "Consistent high performance with excellent board results" }
+    },
+    "activitiesTitle": "Co-Curricular Activities",
+    "activitiesSubtitle": "Nurturing talents beyond academics for holistic development",
+    "participants": "Participants",
+    "subjectStats": { "grade": "Grade", "expert": "Expert", "faculty": "Faculty", "passRate": "Pass Rate" },
+    "stats": { "students": "Students", "teachers": "Teachers", "activities": "Activities" },
+    "fallbacks": {
+      "higherSecondary": {
+        "title": "Higher Secondary",
+        "description": "Specialization in Science, Arts & Commerce streams",
+        "ageGroup": "Ages 16-17",
+        "grades": ["Class 11-12"],
+        "stats": { "students": "180+", "teachers": "12", "activities": "18+" }
+      },
+      "scienceClub": {
+        "title": "Science Club",
+        "description": "Hands-on experiments, research, and science competitions",
+        "details": ["Science Olympiads", "Research Projects", "Science Fairs", "Lab Experiments"],
+        "category": "Science",
+        "participants": "100+"
+      }
+    },
+    "programsList": {
+      "primaryEducation": {
+        "title": "Primary Education",
+        "description": "Nurturing young minds with a holistic foundation focusing on cognitive, emotional, and social development through interactive learning.",
+        "features": ["Play-based learning", "Expert Child Educators", "Creative Arts & Crafts", "Foundation Literacy"],
+        "stat": "100% Foundation Rate"
+      },
+      "secondaryEducation": {
+        "title": "Secondary Education",
+        "description": "Empowering middle and high school students with critical thinking, scientific inquiry, and structured academic preparation.",
+        "features": ["Smart Classrooms", "Structured Curriculum", "Analytical Skills", "Extracurricular Focus"],
+        "stat": "1:15 Teacher-Student Ratio"
+      },
+      "higherSecondary": {
+        "title": "Higher Secondary",
+        "description": "Pre-university curriculum tailored to prepare students for top-tier universities through intensive academics and career path modeling.",
+        "features": ["College Preparation", "Board Exam Prep", "Career Counseling", "Advanced Seminars"],
+        "stat": "99.4% Board Pass Rate"
+      },
+      "scienceDepartment": {
+        "title": "Science Department",
+        "description": "Delving deep into empirical inquiry, scientific methods, and research projects to explore physics, chemistry, and biology.",
+        "features": ["Practical Lab Work", "Research Projects", "Olympiad Coaching", "Physics/Chemistry/Bio Labs"],
+        "stat": "100% Practical Success"
+      },
+      "businessStudies": {
+        "title": "Business Studies",
+        "description": "Introducing students to microeconomics, business models, accounting, and marketing strategies for modern commerce.",
+        "features": ["Entrepreneurship Lab", "Financial Literacy", "Case Studies", "Market Analysis"],
+        "stat": "15+ Annual Projects"
+      },
+      "humanities": {
+        "title": "Humanities",
+        "description": "Fostering cultural empathy, philosophical depth, historical perspective, and strong communications skills.",
+        "features": ["Literature Forums", "Civic Studies", "Creative Writing", "Cultural Heritage"],
+        "stat": "12+ National Debates"
+      },
+      "computerScience": {
+        "title": "Computer Science",
+        "description": "Equipping students with algorithmic thinking, code architecture, and hands-on app development for the digital age.",
+        "features": ["Python & JS Coding", "Web Development", "AI/ML Basics", "Smart Tech Lab"],
+        "stat": "85% Coding Proficiency"
+      },
+      "stemEducation": {
+        "title": "STEM Education",
+        "description": "Integrating Science, Technology, Engineering, and Math in collaborative projects to tackle real-world global challenges.",
+        "features": ["Robotics Workshops", "3D Printing & Design", "Engineering Challenges", "Problem-Solving Seminars"],
+        "stat": "20+ STEM Exhibitions"
+      },
+      "onlineLearning": {
+        "title": "Online Learning Program",
+        "description": "Providing high-quality online courses and virtual classroom access, allowing students to study and review from anywhere.",
+        "features": ["LMS Portal Access", "Recorded Lectures", "Interactive Quizzes", "Flexible Schedules"],
+        "stat": "24/7 Digital Access"
+      },
+      "skillDevelopment": {
+        "title": "Skill Development Courses",
+        "description": "Equipping students with essential professional life skills, soft skills, and vocational training to excel in the workplace.",
+        "features": ["Public Speaking", "Graphic Design", "Leadership Training", "Financial Management"],
+        "stat": "1500+ Graduated Alumni"
+      }
+    },
+    "buttons": {
+      "seeMore": "See More Programs",
+      "seeLess": "See Less"
+    }
+  },
+  "notices": {
+    "title": "Notices",
+    "latestNotices": "Latest Notices",
+    "noticeboard": "Notice board",
+    "subtitle": "Stay informed about important announcements and upcoming events",
+    "date": "Date",
+    "description": "Description",
+    "tabs": {
+      "all": "All",
+      "exams": "Exams",
+      "holidays": "Holidays",
+      "general": "General",
+      "events": "Events",
+      "academic": "Academic"
+    },
+    "errorTitle": "Unable to Load Notices",
+    "emptyTitle": "No Notices Available",
+    "emptyMessage": "Check back later for updates.",
+    "emptyAll": "There are no notices published yet.",
+    "emptyFiltered": "No %s notices available at the moment.",
+    "noNoticesFound": "No Notices Found",
+    "readMore": "Read More →",
+    "viewAll": "View All Notices",
+    "showLess": "Show Less",
+    "types": {
+      "exam": "Exams",
+      "holiday": "Holidays",
+      "general": "General",
+      "event": "Events",
+      "academic": "Academic",
+      "urgent": "Urgent",
+      "default": "Notice"
+    },
+    "important": "Important",
+    "publishedOn": "Published on"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "pageTitle": "Get In Touch",
+    "heroSubtitle": "Ready to start your child's educational journey? Our dedicated team is here to guide you through every step.",
+    "multipleWaysTitle": "Multiple Ways to Connect",
+    "multipleWaysSubtitle": "Choose the method that works best for you. Our team is ready to assist",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "sendMessage": "Send Message",
+    "name": "Name",
+    "message": "Message",
+    "subject": "Subject",
+    "cards": {
+      "visitTitle": "Visit Our Campus",
+      "addressLine1": "123 Education Street",
+      "addressLine2": "Knowledge City, KC 12345",
+      "country": "United States",
+      "callTitle": "Call Us",
+      "mainLabel": "Main",
+      "admissionsLabel": "Admissions",
+      "emergencyLabel": "Emergency",
+      "emailTitle": "Email Us",
+      "emailGeneralLabel": "General",
+      "emailAdmissionsLabel": "Admissions",
+      "emailSupportLabel": "Support",
+      "hoursTitle": "Office Hours",
+      "hoursWeekdaysLabel": "Mon-Fri",
+      "hoursSaturdayLabel": "Sat",
+      "hoursSundayLabel": "Sun",
+      "closedLabel": "Closed"
+    },
+    "form": {
+      "title": "Send us a Message",
+      "subtitle": "Have questions about admissions, programs, or anything else? We'd love to hear from you.",
+      "nameLabel": "Full Name *",
+      "emailLabel": "Email Address *",
+      "phoneLabel": "Phone Number",
+      "subjectLabel": "Subject *",
+      "placeholders": {
+        "name": "Your full name",
+        "email": "your.email@example.com",
+        "phone": "(555) 123-4567",
+        "message": "Please describe how we can help you..."
+      },
+      "selectSubject": "Select a subject",
+      "subjects": {
+        "admissions": "Admissions Inquiry",
+        "academic": "Academic Programs",
+        "facilities": "Facilities & Resources",
+        "events": "School Events",
+        "support": "Student Support",
+        "other": "Other"
+      },
+      "sendButton": "Send Message",
+      "messageLabel": "Message *"
+    },
+    "map": {
+      "title": "Find Our Campus",
+      "openInMaps": "Open in Google Maps",
+      "name": "Sunlight School",
+      "coordinates": "Latitude: 25.6333° N · Longitude: 88.6333° E",
+      "addressShort": "123 Education Street, Knowledge City"
+    },
+    "quick": {
+      "title": "Quick Connect Options",
+      "liveChat": { "title": "Live Chat Support", "subtitle": "Available Mon-Fri, 9 AM - 5 PM" },
+      "tour": { "title": "Schedule Campus Tour", "subtitle": "Book a personalized campus visit" },
+      "request": { "title": "Request Information", "subtitle": "Get our digital brochure and details" }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Quick answers to common questions about Sunlight School",
+      "q1": { "question": "How do I apply for admission?", "answer": "Contact our admissions office at (555) 123-4568 or email admissions@sunlightschool.edu. We'll guide you through the application process and schedule a campus visit." },
+      "q2": { "question": "What are the school hours?", "answer": "Regular school hours are 8:00 AM to 3:00 PM, Monday through Friday. Saturday sessions run from 9:00 AM to 12:00 PM for special programs." },
+      "q3": { "question": "Do you offer transportation?", "answer": "Yes, we provide safe and reliable transportation services for students within a 20-mile radius. Contact our transportation office for routes and schedules." },
+      "q4": { "question": "What extracurricular activities are available?", "answer": "We offer a wide range of activities including sports teams, arts programs, clubs, and community service opportunities. Visit our activities page for details." }
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome to Dashboard",
+    "students": "Students",
+    "teachers": "Teachers",
+    "classes": "Classes",
+    "subjects": "Subjects",
+    "attendance": "Attendance",
+    "results": "Results",
+    "fees": "Fees",
+    "salary": "Salary",
+    "expenses": "Expenses",
+    "reports": "Reports",
+    "settings": "Settings",
+    "profile": "Profile",
+    "statistics": "Statistics",
+    "overview": "Overview"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "importantLinks": "Important Links",
+    "contactInfo": "Contact Information",
+    "followUs": "Follow Us",
+    "stayConnected": "Stay Connected",
+    "newsletterText": "Subscribe to our newsletter for the latest updates, events, and school news.",
+    "enterEmailPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "description": "Nurturing young minds and building bright futures through excellence in education, character development, and innovative learning experiences.",
+    "address": "123 Education Street, City, State 12345",
+    "phone": "+1 (555) 123-4567",
+    "email": "info@sunlightschool.edu",
+    "accessibility": "Accessibility",
+    "allRightsReserved": "All rights reserved",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "auth": {
+    "loginTitle": "Login to Your Account",
+    "email": "Email",
+    "password": "Password",
+    "rememberMe": "Remember Me",
+    "forgotPassword": "Forgot Password?",
+    "loginButton": "Login",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign Up",
+    "role": "Role",
+    "selectRole": "Select Role",
+    "admin": "Admin",
+    "teacher": "Teacher",
+    "student": "Student"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Explore our vibrant collection of school events, achievements, and memorable moments that define our community",
+    "viewAll": "View All Photos",
+    "schoolEvents": "School Events",
+    "activities": "Activities",
+    "filters": { "all": "All" },
+    "buttons": { "seeMore": "See More Galleries", "seeLess": "See Less" },
+    "featured": "Featured",
+    "photos": "photos",
+    "viewGallery": "View Gallery",
+    "errorLoading": "Unable to load gallery — showing fallback content.",
+    "retry": "Retry",
+    "categories": {
+      "CampusLife": "Campus Life",
+      "ClassroomActivities": "Classroom Activities",
+      "SportsEvents": "Sports Events",
+      "CulturalPrograms": "Cultural Programs",
+      "ScienceFair": "Science Fair",
+      "GraduationCeremony": "Graduation Ceremony",
+      "EducationalTours": "Educational Tours",
+      "AnnualFunction": "Annual Function",
+      "AwardCeremony": "Award Ceremony",
+      "StudentActivities": "Student Activities"
+    },
+    "fallbacks": {
+      "techDay": {
+        "title": "Technology Innovation Day",
+        "description": "Presenting cutting-edge technology projects, coding competitions, and digital innovation showcases.",
+        "eventDate": "2024-11-15",
+        "category": "Technology"
+      }
+    }
+  },
+  "achievements": {
+    "title": "Achievements",
+    "ourAchievements": "Our Achievements",
+    "subtitle": "Showcasing outstanding achievements across academics, sports, arts, and innovation",
+    "awards": "Awards",
+    "competitions": "Competitions",
+    "filters": { "all": "All" },
+    "buttons": { "seeMore": "See More Achievements", "seeLess": "See Less" },
+    "highlights": "Highlights",
+    "more": "more",
+    "categories": {
+      "Academic": "Academic",
+      "Sports": "Sports",
+      "Cultural": "Cultural",
+      "Science": "Science",
+      "Arts": "Arts",
+      "Technology": "Technology"
+    },
+    "fallbacks": {
+      "mathOlympiad": {
+        "title": "Mathematics Olympiad Champions",
+        "description": "Outstanding performance in the International Mathematics Olympiad with perfect scores in advanced problems.",
+        "achievements": ["Perfect Score", "Gold Medal", "Special Recognition"],
+        "date": "2024-08-25",
+        "category": "Academic"
+      }
+    },
+    "stats": {
+      "totalStudents": "Total Students",
+      "totalStudentsDesc": "Enrolled students active in learning",
+      "gpaRate": "Board Success Rate",
+      "gpaRateDesc": "Average GPA 5.0 in national exams",
+      "awardsCount": "National Awards",
+      "awardsCountDesc": "Championships & trophies won",
+      "scholarships": "Scholarship Achievements",
+      "scholarshipsDesc": "Secured government & private funds",
+      "olympiad": "Olympiad Winners",
+      "olympiadDesc": "Winners in STEM & Math Olympiads",
+      "admissions": "University Placements",
+      "admissionsDesc": "Admission rate to top tier universities",
+      "teachers": "Experienced Faculty",
+      "teachersDesc": "Highly certified teachers & researchers",
+      "international": "Global Competitions",
+      "internationalDesc": "Honors achieved across nations"
+    },
+    "analytics": {
+      "title": "Performance Analytics",
+      "subtitle": "Visual representation of our academic & co-curricular excellence over the years",
+      "chartGpa": "Board Exam Success (%)",
+      "chartAwards": "Awards Won",
+      "chartAdmissions": "University Admission (%)"
+    },
+    "successHighlights": {
+      "title": "Success Highlights & Placements",
+      "subtitle": "Prominent placements and notable accomplishments from our alumni network",
+      "badge": "Student Success Stories"
+    }
+  },
+  "facilities": {
+    "title": "Facilities",
+    "ourFacilities": "Our Facilities",
+    "subtitle": "Experience excellence with our modern facilities designed to provide the best learning environment",
+    "loading": "Loading facilities...",
+    "errorLoading": "Error loading facilities",
+    "seeMore": "See More Facilities",
+    "showLess": "Show Less",
+    "library": "Library",
+    "laboratory": "Laboratory",
+    "playground": "Playground",
+    "computerLab": "Computer Lab",
+    "transportation": "Transportation",
+    "transportationDescription": "Safe and reliable bus service covering all major routes with GPS tracking.",
+    "transportationFeatures": ["GPS Tracking", "Safe Routes", "Trained Drivers"],
+    "smartClassrooms": "Smart Classrooms",
+    "smartClassroomsDesc": "Interactive whiteboards, digital projectors, and modern furniture for optimal learning",
+    "scienceLabs": "Science Labs",
+    "scienceLabsDesc": "Fully equipped physics, chemistry, and biology labs with latest technology",
+    "sportsComplex": "Sports Complex",
+    "sportsComplexDesc": "Basketball court, gymnasium, swimming pool, and outdoor athletic fields",
+    "digitalLibrary": "Digital Library",
+    "digitalLibraryDesc": "Extensive collection with digital resources, e-books, and research databases"
+  }
+}
